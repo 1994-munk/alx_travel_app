@@ -1,11 +1,6 @@
-# Django web framework
-Django>=4.2,<5.0  
-
-# Django REST Framework for building APIs
-djangorestframework  
-
-# Handle Cross-Origin Resource Sharing (CORS) in APIs
-django-cors-headers  
-
-# Load environment variables from .env file
-python-dotenv  
+Django>=4.2,<5.0
+djangorestframework
+django-cors-headers
+drf-yasg
+celery
+django-environ
